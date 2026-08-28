@@ -12,18 +12,19 @@ I have developed & published 3 complete projects on Roblox as an indie developer
 - Roblox Studio
 - Luau
 - Godot & GDScript
+- Krita
 
 ---
 
 ### Currently Learning
 - Godot
 - GDScript
-- General game development outside of Roblox
+- How to draw
 
 ---
 
 ### About me!
-🎮 Into video games, single player & mutliplayer.  
+🎮 Into video games, especially story games
 ✨ I like creating  
 💪 I enjoy going gym!  
 ☕ I like coffee
