@@ -25,6 +25,11 @@ I have developed & published 3 complete projects on Roblox as an indie developer
 
 ---
 
+### Currently Working on
+- Making small 5-10 min games on godot
+
+---
+
 ### About me!
 🎮 Into rpg & story video games  
 ✨ I like creating  
