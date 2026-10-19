@@ -2,7 +2,7 @@ Nobody will see this, hehe
 
 ### Hi there 👋
 
-I'm Capkin, an indie game developer based in New Zealand. I have developed & published 3 complete projects on Roblox as an indie developer. I previously developed games on Roblox and am now learning Godot and GDScript
+I'm Capkin, an indie game developer based in New Zealand. I previously developed games on Roblox and am now learning Godot and GDScript
 
 Gameplay & systems-focused developer
 
