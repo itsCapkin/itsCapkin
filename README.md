@@ -2,11 +2,9 @@ Nobody will see this, hehe
 
 ### Hi there 👋
 
-I'm Capkin, a former Roblox Developer and Aspiring Godot Developer based in New Zealand.
+I'm Capkin, an indie game developer based in New Zealand. I have developed & published 3 complete projects on Roblox as an indie developer. I previously developed games on Roblox and am now learning Godot and GDScript
 
 Gameplay & systems focused developer
-
-I have developed & published 3 complete projects on Roblox as an indie developer.
 
 ---
 
